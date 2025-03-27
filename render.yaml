@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: llm-api
+    name: llm-api-gui
     env: python
     plan: starter
     region: oregon
